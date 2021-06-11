@@ -95,11 +95,11 @@ In the demo, 6 and 3 images are used to match their similarities.
 
 The cosine distances are shown in the table.
 
-| | <img width="100" src="./demo/3.jpg"/> | <img width="100" src="./demo/4.jpg"/> | <img width="100" src="./demo/5.jpg"/> |
+| | <img width="100" src="./demo/7.png"/> | <img width="100" src="./demo/microsoft_1.jpeg"/> | <img width="100" src="./demo/3376719.png"/> |
 | --- | :---: | :---: | :---: |
-| <img width="100" src="./demo/1.jpg"/> | **0.9229318** | 0.5577963 | 0.5826051 |
-| <img width="100" src="./demo/2.jpg"/> | **0.84877944** | 0.538753 | 0.5624183 |
-| <img width="100" src="./demo/3.jpg"/> | **1.** | 0.5512465 | 0.57025677 |
+| <img width="100" src="./demo/3376720.png"/> | **0.9229318** | 0.5577963 | 0.5826051 |
+| <img width="100" src="./demo/8.png"/> | **0.84877944** | 0.538753 | 0.5624183 |
+| <img width="100" src="./demo/microsoft_2.jpg"/> | **1.** | 0.5512465 | 0.57025677 |
 | <img width="100" src="./demo/4.jpg"/> | 0.5512465 | **0.99999994** | 0.54037786 |
 | <img width="100" src="./demo/5.jpg"/> | 0.57025677 | 0.54037786 | **0.9999998** |
 | <img width="100" src="./demo/6.jpg"/> | 0.5575757 | 0.5238174 | **0.91234696** |
