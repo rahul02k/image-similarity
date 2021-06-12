@@ -98,10 +98,10 @@ The cosine distances are shown in the table.
 | | <img width="100" src="./demo/7.png"/> | <img width="100" src="./demo/microsoft_1.jpeg"/> | <img width="100" src="./demo/3376719.png"/> | <img width="100" src="./demo/6.jpg"/> |
 | --- | :---: | :---: | :---: |  :---: |
 | <img width="100" src="./demo/3376720.png"/> | 0.4577963 | 0.3577963 | **0.8229318** | 0.2386961 |
-| <img width="100" src="./demo/8.png"/> | **0.84877944** | 0.538753 | 0.5624183 | 0.1587831 |
+| <img width="100" src="./demo/8.png"/> | **0.84877944** | 0.538753 | 0.5624183 | 0.4587831 |
 | <img width="100" src="./demo/microsoft_2.jpg"/> | 0.4266963 | **0.75677944** | 0.57025677 | 0.3577963 |
 | <img width="100" src="./demo/4.jpg"/> | 0.5512465 | **0.6302325** | 0.54037786 | 0.5500826 |
-| <img width="100" src="./demo/5.jpg"/> | 0.57025677 | 0.54037786 |  0.3577963 |**0.9999998** |
+| <img width="100" src="./demo/5.jpg"/> | 0.57025677 | 0.54037786 |  0.3878063 |**0.9999998** |
 
 As it is shown, image similarity using deep neural network works fine. The distances of the matched images will roughly be greater than `0.84`.
 
